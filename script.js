@@ -1,7 +1,4 @@
 document.getElementById('btn').addEventListener('click', () => {
-    document.getElementById('greeting').textContent = 'Votați aici!'
-function afiseazaSondaj() {
+    document.getElementById('greeting').textContent = 'Votați aici!';
     document.getElementById("sectiuneVot").style.display = "block";
-}
-
 });
